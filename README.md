@@ -2,19 +2,19 @@
 Data preprocessing and model evaluation 
 
 Dataset Link-https://archive.ics.uci.edu/dataset/19/car+evaluation
+
+
 From the Link--
+
 Derived from a simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.
 
-Dataset Characteristics
+# Dataset Characteristics
 Multivariate
 
-Subject Area
-Other
-
-Associated Tasks
+# Associated Tasks
 Classification
 
-Feature Type
+# Feature Type
 Categorical
 
 # Instances
